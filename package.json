@@ -1,0 +1,22 @@
+{
+  "name": "wen-para",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doomguycrypto/wen-para.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doomguycrypto/wen-para/issues"
+  },
+  "homepage": "https://github.com/doomguycrypto/wen-para#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.0"
+  }
+}
